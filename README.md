@@ -17,7 +17,7 @@
   brand and range in KM.  
   
   3. Visualizations.
-    See File.
+    See comment.
  
  4. Analysis.
   I identified which data out of the dataset woud not be necessary for me to answer my question and removed
