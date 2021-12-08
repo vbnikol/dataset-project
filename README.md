@@ -32,7 +32,7 @@
      ![pricebybrand](https://user-images.githubusercontent.com/91593800/145128550-93e2236d-e1cd-436f-a2a2-ba390f107c51.PNG)
 
 
-     I also made a chart showing the brands and prices for AWD vehicles. 
+     I also made a chart showing the brands and prices for AWD vehicles regardless of range.  
 
 
 
