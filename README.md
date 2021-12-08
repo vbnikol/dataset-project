@@ -16,8 +16,14 @@
   I also removed any vehicles that had data missing. I cleaned up the data into AWD powerTrain, model,
   brand and range in KM.  
   
-  3. Visualizations.
+3. Visualizations.
     ![sumofrange](https://user-images.githubusercontent.com/91593800/145108367-a5496368-c6f8-4fbb-a193-81f45ac621fe.PNG)
+    The barchart visual answers that the vehicle that has AWD and longest range is a Tesla Roadster.
+    
+    
+    I really like this column chard because it showed the range by brand. It shows that Tesla has the longest range by a vignificant amount.
+      ![rangebybrand](https://user-images.githubusercontent.com/91593800/145125738-ac68e11e-4444-4749-8c8d-e8692a90a682.PNG)
+
 
  
  4. Analysis.
