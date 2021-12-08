@@ -21,7 +21,7 @@
     The barchart visual answers that the vehicle that has AWD and longest range is a Tesla Roadster. 
     
     
-    I really like this column chard because it showed the range by brand. It shows that Tesla has the longest range by a vignificant amount.
+    I really like this column chard because it showed the range by brand. It shows that Tesla has the longest combined range by a vignificant amount.
      ![image](https://user-images.githubusercontent.com/91593800/145125887-7a144532-b681-498e-9c80-340cd8b029f2.png)
 
 
