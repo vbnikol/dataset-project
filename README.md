@@ -22,7 +22,8 @@
     
     
     I really like this column chard because it showed the range by brand. It shows that Tesla has the longest range by a vignificant amount.
-      ![rangebybrand](https://user-images.githubusercontent.com/91593800/145125738-ac68e11e-4444-4749-8c8d-e8692a90a682.PNG)
+     ![image](https://user-images.githubusercontent.com/91593800/145125887-7a144532-b681-498e-9c80-340cd8b029f2.png)
+
 
 
  
